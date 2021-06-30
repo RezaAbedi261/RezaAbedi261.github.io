@@ -1,201 +1,29 @@
- {
-    "places": [
-    {
-        "lat": 35.7989674,
-        "lng": 51.4038146,
-        "background_photo": "https://cdn.takhfifan.com/images/1.0?id=/155471/_/1/_11__89_7.jpg",
-        "name": "صبحانه لاکچری در رستوران رو باز بلوط",
-        "type": "بوفه صبحانه",
-        "open": "19:00",
-        "close": "23:00",
-        "address": "ولنجک، خیابان یمن، بالاتر از مقدس اردبیلی، سمت چپ باغ گیاه شناسی",
-        "photos": [
-            "https://cdn.takhfifan.com/images/1.0?id=/155471/_/1/_18__29_3.jpg",
-            "https://cdn.takhfifan.com/images/1.0?id=/155471/_/9/_9__121_6.jpg",
-            "https://cdn.takhfifan.com/images/1.0?id=/155471/_/5/_5__395_27.jpg",
-            "https://cdn.takhfifan.com/images/1.0?id=/155471/_/1/_18__29_3.jpg",
-            "https://cdn.takhfifan.com/images/1.0?id=/155471/_/1/_15__43_5.jpg"
-        ],
-        "rate": 4,
-        "options": [
-            "کارت‌خوان",
-            "جای پارک آسان",
-            "پالادیوم",
-            "مالیات بر ارزش افزوده ندارد",
-            "حق سرویس ندارد"
-        ],
-        "comments": [
-        {
-            "name": "امیر اکبری",
-            "text": "عالی با این مبلغ",
-            "date": "۱۳۹۹/۹/۱۳ - ۰۷:۵۴",
-            "photo": "https://avatars1.githubusercontent.com/u/66577?s=460&v=4",
-            "rate": 5
-        },
-        {
-            "name": "کاربر",
-            "text": "ضمن عرضسلام وخسته نباشيد خدمت بروبچه هاي محترم تخفيفان..بوفه صبحانه بلوط دركل نسبت به چندجاي ديگه كه رفته بودم به مراتب بهتر بود..دستشون درد نكنه..چه از لحاظ كيفيت وچه از لحاظ تنوع..فقط من نميدونم چرا بوفه صبحانه ها گردو رو باپوست ميذارن سر ميز!دليلش ميدونم گرون بودن اين خشكباره اما به نظرم زياد اينكار جالب نيست..خانم خود بنده اومد چندتا گردو بشكونه بااون گردوشكن فنرش دررفت ودست ايشون رو گاز گرفت كبود شد اصلا زهرمارمون شد ..به غير از اين ضعف واينكه ميوه يكبار بيشتر شارژنشد..الباقي درحد خوب..ممنونم..",
-            "date": "۱۳۹۹/۹/۱۱ - ۰۸:۴۴",
-            "photo": "https://avatars1.githubusercontent.com/u/1326112?s=460&u=05f95ca7fdead36edd9c86be46b4ef6c3c71f876&v=4",
-            "rate": 3
-        },
-        {
-            "name": "ali jalili",
-            "text": "همه چی عالی بود اگه یه بخشی رو هم داشتن که نون تازه میپخت و املت بهترم میشد البته موسیقی ندارن و موسیقی هم خیلی مهمه ممنون",
-            "date": "۱۳۹۹/۸/۳۰ - ۰۹:۴۱",
-            "photo": "https://avatars1.githubusercontent.com/u/7660997?s=460&u=69e8041caabed75a347aef1960a635aab8096b7b&v=4",
-            "rate": 4
-        },
-        {
-            "name": "ali jalili",
-            "text": "غذای دلچسبی بود. تشکر میکنم از نیرو های خدمات و مدیریت رستوران",
-            "date": "۱۳۹۹/۸/۳۰ - ۰۹:۴۱",
-            "photo": "https://avatars2.githubusercontent.com/u/130929?s=460&u=df49c94bfd315ae6c4ba5bc6ee8e76bd16e0e930&v=4",
-            "rate": 5
-        }
-        ]
-    },{
-        "lat": 35.7687446,
-        "lng": 51.3703111,
-        "background_photo": "https://cdn.takhfifan.com/images/1.0?id=/187861/6/_/6_397_15.jpg",
-        "name": "برگر جان",
-        "type": "فست فود",
-        "open": "11:30",
-        "close": "23:30",
-        "address": "شهرک غرب، بلوار دریا، خیابان گلها، نبش خیابان توحید سوم",
-        "photos": [
-            "https://cdn.takhfifan.com/images/1.0?id=/187861/8/_/8_218_12.jpg",
-            "https://cdn.takhfifan.com/images/1.0?id=/187861/1/_/1_1045_14.jpg",
-            "https://cdn.takhfifan.com/images/1.0?id=/187861/4/_/4_721_27.jpg",
-            "https://cdn.takhfifan.com/images/1.0?id=/187861/7/_/7_280_13.jpg",
-            "https://cdn.takhfifan.com/images/1.0?id=/187861/0/0/009_6_1.jpg"
-        ],
-        "rate": 4.1,
-        "options": [
-            "کارت‌خوان",
-            "جای پارک آسان",
-            "حق سرویس ندارد"
-        ],
-        "comments": [
-        {
-            "name": "maryam naderi",
-            "text": "پيتزا مخلوطش خوشمزه بود",
-            "date": "۱۳۹۹/۳/۲۱ - ۲۰:۵۵",
-            "photo": "https://avatars0.githubusercontent.com/u/102495?s=460&u=b4bf6818deefe59952ac22fec6ed8c76de1b8f7c&v=4",
-            "rate": 5
-        },
-        {
-            "name": "علی جلیلی",
-            "text": "خیلی خوب بود همه چی. پیشنهاد میکنم حتما برید",
-            "date": "۱۳۹۹/۸/۳۰ - ۰۹:۴۱",
-            "photo": "https://avatars3.githubusercontent.com/u/1130014?s=460&u=baab4900e651b50553a049146167b9e6b66a8a45&v=4",
-            "rate": 4
-        },
-        {
-            "name": "کامبیز محمودی",
-            "text": "دفعه اولی بود ک رفتیم. نقطه ضعفی نداشتن.همه امکاناتش عالی بود",
-            "date": "۱۳۹۹/۸/۳۰ - ۰۹:۴۱",
-            "photo": "https://avatars3.githubusercontent.com/u/7413593?s=460&u=bd1180bdbb558d7f74be9e0a0a840529b1442c1e&v=4",
-            "rate": 4
-        },
-        {
-            "name": "جواد امیری",
-            "text": "نسبت به قیمتش کیفیت بازمه رو نداشت. ولی در کل خوب بود",
-            "date": "۱۳۹۹/۸/۳۰ - ۰۹:۴۱",
-            "photo": "https://avatars1.githubusercontent.com/u/7660997?s=460&u=69e8041caabed75a347aef1960a635aab8096b7b&v=4",
-            "rate": 4
-        }
-        ]
 
-    },{
-        "lat": 35.6872666,
-        "lng": 51.4803987,
-        "background_photo": "https://cdn.takhfifan.com/images/1.0?id=/182877/r/e/restooran-naghsh-jahan_1_.jpg",
-        "name": "رستوران مجلل نقش جهان",
-        "type": "ایرانی",
-        "open": "11:00",
-        "close": "23:00",
-        "address": "پیروزی، خیابان پرستار شمالی، بعد از چهارراه نساجی، پلاک 410",
-        "photos": [
-            "https://cdn.takhfifan.com/images/1.0?id=/182877/r/e/restooran-naghsh-jahan_9_.jpg",
-            "https://cdn.takhfifan.com/images/1.0?id=/182877/r/e/restooran-naghsh-jahan_8_.jpg",
-            "https://cdn.takhfifan.com/images/1.0?id=/182877/r/e/restooran-naghsh-jahan_5_.jpg",
-            "https://cdn.takhfifan.com/images/1.0?id=/182877/r/e/restooran-naghsh-jahan_2_.jpg",
-            "https://cdn.takhfifan.com/images/1.0?id=/182877/r/e/restooran-naghsh-jahan_10_.jpg"
-        ],
-        "rate": 4.6,
-        "options": [
-            "ظرفیت ۱۲۰ نفر",
-            "پیشنهاد سرآشپز کباب اسکله مخصوص نقش جهان",
-            "جای پارک آسان دارد",
-            "غذایی سنتی و فوق العاده"
-        ],
-        "comments": [
-        {
-            "name": "حامد حاج عبدالباقی",
-            "text": "ما رفتیم رفتار پرسنل خوب بود.ولی نکته ای که باید گفت که ماهی پر از تیغ بود که تیغ رو جدا نکرده بودند و کاملا کباب نشده بود و کاملا به سختی قابل خوردن بود ولی همه چی عالی بود.",
-            "date": "۱۳۹۹/۶/۳ - ۲۱:۱۳",
-            "photo": "https://avatars3.githubusercontent.com/u/1130014?s=460&u=baab4900e651b50553a049146167b9e6b66a8a45&v=4",
-            "rate": 4
-        },{
-            "name": "Benyamin Karani",
-            "text": "حتما پیشنهاد میکنم برید... جای مَشتی ای بود ????",
-            "date": "۱۳۹۹/۵/۱۵ - ۲۲:۳۷",
-            "photo": "https://avatars1.githubusercontent.com/u/6358735?s=460&u=d6331a8506a0253fd1066ade2a97338b983d0021&v=4",
-            "rate": 5
-        },{
-            "name": "مهدی عمادی",
-            "text": "رستوران خوبی است و کیفیت مورد قبولی دارد",
-            "date": "۱۳۹۹/۳/۲۳ - ۱۴:۵۰",
-            "photo": "https://avatars0.githubusercontent.com/u/76639?s=460&u=603e623512f564c95413f3c508b75a7a8adf68ae&v=4",
-            "rate": 5
-        }
-        ]
-
-    },{
-        "lat": 35.7754432,
-        "lng": 51.3620852,
-        "background_photo": "https://cdn.takhfifan.com/images/1.0?id=/180794/2/0/20_34_5.jpg",
-        "name": "تهران بين",
-        "type": "کافه و رستوران",
-        "open": "09:00",
-        "close": "23:00",
-        "address": "سعادت آباد، خیابان سرو غربی، خیابان ریاضی بخشایش، کوچه هفدهم، برج عرفان، طبقه نهم",
-        "photos": [
-            "https://cdn.takhfifan.com/images/1.0?id=/180794/1/8/18_48_6.jpg",
-            "https://cdn.takhfifan.com/images/1.0?id=/180794/3/_/3_733_52.jpg",
-            "https://cdn.takhfifan.com/images/1.0?id=/180794/1/7/17_49_10.jpg",
-            "https://cdn.takhfifan.com/images/1.0?id=/180794/1/1/11_111_15.jpg",
-            "https://cdn.takhfifan.com/images/1.0?id=/180794/7/_/7_267_26.jpg"
-        ],
-        "rate": 4,
-        "options": [
-            "ظرفیت ۲۲۰ نفر",
-            "کارت‌خوان : دارد",
-            "جای پارک آسان دارد"
-        ],
-        "comments": [
-        {
-            "name": "مرتضی دشتی زاده",
-            "text": "بیش از ظرفیت واقعی رستوران، اقدام به پذیرش مهمان می کنند که مشکلاتی برای مراجعه کنندگان ایجاد می کند. علیرغم تماس قبلی و اعلام تعداد نفرات، میز مناسب در محل رستوران وجود نداشت. در منوی صبحانه به غیر از نسکافه 3 در 1، هیچگونه قهوه دمی ولو با کیفیت پایین وجود ندارد. پرسنل مجموعه نیز در ارتباط با مشتری بسیار آماتور رفتار می کنند",
-            "date": "۱۳۹۸/۱۱/۲۵ - ۰۹:۰۷",
-            "photo": "https://avatars2.githubusercontent.com/u/439362?s=460&u=f1963e1e7ca28c94c291cf1a2c04c8adc63e54d2&v=4",
-            "rate": 4
-        },{
-            "name": "علی شالپوش",
-            "text": "منو بسیار ضعیف نسبت به رستوران های دیگر جهت سرو صبحانه",
-            "date": "۱۳۹۸/۱۱/۲۵ - ۰۸:۴۴",
-            "photo": "https://avatars1.githubusercontent.com/u/6035284?s=460&u=938ac1b5e9830c4b8d9c95b6fba42a2545eb8a36&v=4",
-            "rate": 3
-        },{
-            "name": "azadeh zamani",
-            "text": "یک صبحانه خوب و خوشمزه در کنار نوای دلنشین پیانو",
-            "date": "۱۳۹۸/۱۱/۱۸ - ۰۸:۴۶",
-            "photo": "https://avatars2.githubusercontent.com/u/518289?s=460&u=3cab718d686d2e83a5e62f8a100071c394fbbf14&v=4",
-            "rate": 5
-        }
-        ]
-
-    }
-    ]
-} 
+[{
+	"text": "عدم پایبندی مسافر به قوانین اسنپ",
+	"id": 1
+}, {
+	"text": "عدم پاسخگویی مسافر",
+	"id": 2
+}, {
+	"text": "عدم حضور مسافر",
+	"id": 3
+}, {
+	"text": "سفر خدماتی",
+	"id": 4
+}, {
+	"text": "مبدأ نادرست",
+	"id": 5
+}, {
+	"text": "انصراف مسافر",
+	"id": 6
+}, {
+	"text": "مقصد نادرست",
+	"id": 7
+}, {
+	"text": "خرابی خودرو",
+	"id": 8
+}, {
+	"text": "مشکل اپلیکیشن",
+	"id": 9
+}]
