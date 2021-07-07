@@ -1,40 +1,39 @@
 {
-    "reasons": [
-        {
-            "id": 1,
-            "name": "Non-response of origin",
-            "displayName": ""عدم پایبندی مسافر به قوانین اسنپ",
-            "groupName": "all"
-        },
-        {
-            "id": 2,
-            "name": "Cancel applicant",
-            "displayName": "عدم پاسخگویی مسافر",
-            "groupName": "all"
-        },
-        {
-            "id": 3,
-            "name": "Cancel applicant",
-            "displayName": "سفر خدماتی",
-            "groupName": "all"
-        },
-        {
-            "id": 4,
-            "name": "Cancel applicant",
-            "displayName": "سفر خدماتی",
-            "groupName": "all"
-        },
-        {
-            "id": 5,
-            "name": "Cancel applicant",
-            "displayName": "مبدأ نادرست",
-            "groupName": "all"
-        },
-        {
-            "id": 6,
-            "name": "Cancel applicant",
-            "displayName": "انصراف درخواست دهنده",
-            "groupName": "all"
-        }
-    ]
+	"reasons": [{
+			"id": 1,
+			"name": "Non-response of origin",
+			"displayName": "عدم پایبندی مسافر به قوانین اسنپ",
+			"groupName": "all"
+		},
+		{
+			"id": 2,
+			"name": "Cancel applicant",
+			"displayName": "عدم پاسخگویی مسافر",
+			"groupName": "all"
+		},
+		{
+			"id": 3,
+			"name": "Cancel applicant",
+			"displayName": "سفر خدماتی",
+			"groupName": "all"
+		},
+		{
+			"id": 4,
+			"name": "Cancel applicant",
+			"displayName": "سفر خدماتی",
+			"groupName": "all"
+		},
+		{
+			"id": 5,
+			"name": "Cancel applicant",
+			"displayName": "مبدأ نادرست",
+			"groupName": "all"
+		},
+		{
+			"id": 6,
+			"name": "Cancel applicant",
+			"displayName": "انصراف درخواست دهنده",
+			"groupName": "all"
+		}
+	]
 }
