@@ -5,17 +5,17 @@
 		"Type": "Slider",
 		"Data": [{
 				"Icon": "http://patis.co/patis/attachments/app/111111/c111111__1.jpg",
-				"Url": "http://google.com",
+				"Uri": "http://google.com",
 				"Action": "Link"
 			},
 			{
 				"Icon": "http://patis.co/patis/attachments/app/111111/c111111__1.jpg",
-				"Url": "1213",
+				"Uri": "1213",
 				"Action": "Model"
 			},
 			{
 				"Icon": "http://patis.co/patis/attachments/app/111111/c111111__1.jpg",
-				"Tag": "bahar",
+				"Uri": "bahar",
 				"Action": "Tag"
 			}
 		]
