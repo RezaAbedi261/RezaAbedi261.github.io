@@ -44,7 +44,7 @@
 			}]
 
 	},{
-		"Type": "horizontalList",
+		"Type": "HorizontalList",
 		"Title": "لیست کالاها",
 		"Data": [{
 				"Icon": "https://dkstatics-public.digikala.com/digikala-adservice-banners/46bbff88e8c277f47be65eef7834d3f121481b2e_1627290872.jpg?x-oss-process=image/quality,q_80",
