@@ -47,22 +47,30 @@
 		"Data": [{
 				"Icon": "https://dkstatics-public.digikala.com/digikala-adservice-banners/46bbff88e8c277f47be65eef7834d3f121481b2e_1627290872.jpg?x-oss-process=image/quality,q_80",
 				"Uri": "http://google.com",
-				"Action": "Link"
+				"Action": "Link",
+				"Title": "تیتر و عنوان",
+				"Price": 40000
 			},
 			{
 				"Icon": "https://dkstatics-public.digikala.com/digikala-adservice-banners/b04b32ba9a4fe1789b856310ed9ac9b1ebe13f3d_1626764882.jpg?x-oss-process=image/quality,q_80",
 				"Uri": "1213",
-				"Action": "Model"
+				"Action": "Model",
+				"Title": "تیتر و عنوان",
+				"Price": 40000
 			},
 			{
 				"Icon": "https://dkstatics-public.digikala.com/digikala-adservice-banners/fe1ad20d5b37f2d86b1624084accf81ceeb408b1_1626765308.jpg?x-oss-process=image/quality,q_80",
 				"Uri": "bahar",
-				"Action": "Tag"
+				"Action": "Tag",
+				"Title": "تیتر و عنوان",
+				"Price": 40000
 			},
 			{
 				"Icon": "https://dkstatics-public.digikala.com/digikala-adservice-banners/fe1ad20d5b37f2d86b1624084accf81ceeb408b1_1626765308.jpg?x-oss-process=image/quality,q_80",
 				"Uri": "bahar",
-				"Action": "Tag"
+				"Action": "Tag",
+				"Title": "تیتر و عنوان",
+				"Price": 40000
 			}]
 
 	}]
