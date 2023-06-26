@@ -1,10 +1,10 @@
   {
-  	"base": "https://snapp-box.com",
-  	"biker": "https://biker.snapp-box.com/",
-  	"order": "https://order.snapp-box.com/",
-  	"tracking": "https://tracking.snapp-box.com/",
-  	"wallet": "https://wallet.snapp-box.com/",
-  	"capacity": "https://capacity-management.snapp-box.com/",
-  	"parvaneh": "https://gateway.snapp-box.com/api/parvaneh/",
-  	"zone": "https://gateway.snapp-box.com/api/zone/"
+  	"base": "https://snapp-boxx.com",
+  	"biker": "https://biker.snapp-boxx.com/",
+  	"order": "https://order.snapp-boxx.com/",
+  	"tracking": "https://tracking.snapp-boxx.com/",
+  	"wallet": "https://wallet.snapp-boxx.com/",
+  	"capacity": "https://capacity-management.snapp-boxx.com/",
+  	"parvaneh": "https://gateway.snapp-boxx.com/api/parvaneh/",
+  	"zone": "https://gateway.snapp-boxx.com/api/zone/"
   }
