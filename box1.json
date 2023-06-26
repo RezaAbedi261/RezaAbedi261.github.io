@@ -1,0 +1,10 @@
+  {
+  	"base": "https://snapp-box.com",
+  	"biker": "https://biker.snapp-box.com/",
+  	"order": "https://order.snapp-box.com/",
+  	"tracking": "https://tracking.snapp-box.com/",
+  	"wallet": "https://wallet.snapp-box.com/",
+  	"capacity": "https://capacity-management.snapp-box.com/",
+  	"parvaneh": "https://gateway.snapp-box.com/api/parvaneh/",
+  	"zone": "https://gateway.snapp-box.com/api/zone/"
+  }
